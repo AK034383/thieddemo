@@ -1,4 +1,8 @@
 Hellow World
  Working in rebase merging
 
+<<<<<<< HEAD
 Hi Sweet.
+=======
+Hello Home.
+>>>>>>> devtest
