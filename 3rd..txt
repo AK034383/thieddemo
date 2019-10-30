@@ -1,3 +1,10 @@
 Change in UI Tool for merging
+<<<<<<< HEAD
 
 change in merge commit
+=======
+  
+change for merge commit
+
+again updated 3rd.txt
+>>>>>>> devtest
